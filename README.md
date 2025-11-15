@@ -82,7 +82,7 @@ AI_FOR_PREDICTIVE_TEXT/
 
 ### Clone the repo:
 ```bash
-git clone https://github.com/anbu-20012005/AI_FOR_PREDICTIVE_TEXT.git
+git clone https://github.com/anbu-20012005/text_prediction_using_lstm.git
 ````
 
 ### Install dependencies:
